@@ -1,0 +1,12 @@
+Reporte de partidos empatados sin goles
+
+===================================
+
+Papagayos de la Comuna 0 Cálculos Exactos 0
+Analistas Numéricos 0 Cálculos Exactos 0
+
+---------------------------------
+
+Cantidad de partidos empatados sin goles: 2
+Cantidad de partidos totales: 20
+Porcentaje de partidos empatados sin goles: 10.000000%

@@ -1,0 +1,15 @@
+Reporte de partidos ganados por el equipo visitante
+
+===================================
+
+Papagayos de la Comuna 0 Ingenieros Financieros 1
+Economistas Creativos 0 Papagayos de la Comuna 3
+Analistas Numéricos 1 Ingenieros Financieros 2
+Ingenieros Financieros 1 Financieros Ingeniosos 3
+Cálculos Exactos 0 Ingenieros Financieros 1
+
+---------------------------------
+
+Cantidad de partidos ganados por el equipo visitante: 5
+Cantidad de partidos totales: 20
+Porcentaje de partidos ganados por el equipo visitante: 25.000000%

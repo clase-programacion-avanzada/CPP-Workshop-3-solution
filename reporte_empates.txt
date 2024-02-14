@@ -1,0 +1,16 @@
+Reporte de partidos empatados
+
+===================================
+
+Papagayos de la Comuna 2 Tigres del Amazonas 2
+Cálculos Exactos 1 Analistas Numéricos 1
+Ingenieros Financieros 1 Papagayos de la Comuna 1
+Analistas Numéricos 2 Economistas Creativos 2
+Papagayos de la Comuna 2 Analistas Numéricos 2
+Ingenieros Financieros 2 Economistas Creativos 2
+
+---------------------------------
+
+Cantidad de partidos empatados: 6
+Cantidad de partidos totales: 20
+Porcentaje de partidos empatados: 30.000002%

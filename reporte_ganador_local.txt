@@ -1,0 +1,17 @@
+Reporte de partidos ganados por el equipo local
+
+===================================
+
+Economistas Creativos 3 Ingenieros Financieros 2
+Financieros Ingeniosos 2 Economistas Creativos 0
+Cálculos Exactos 2 Analistas Numéricos 1
+Financieros Ingeniosos 3 Cálculos Exactos 1
+Economistas Creativos 1 Analistas Numéricos 0
+Financieros Ingeniosos 2 Economistas Creativos 1
+Financieros Ingeniosos 3 Papagayos de la Comuna 0
+
+---------------------------------
+
+Cantidad de partidos ganados por el equipo local: 7
+Cantidad de partidos totales: 20
+Porcentaje de partidos ganados por el equipo local: 35.000000%

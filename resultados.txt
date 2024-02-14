@@ -1,0 +1,20 @@
+Papagayos de la Comuna,2,Tigres del Amazonas,2
+Cálculos Exactos,1,Analistas Numéricos,1
+Economistas Creativos,3,Ingenieros Financieros,2
+Papagayos de la Comuna,0,Ingenieros Financieros,1
+Financieros Ingeniosos,2,Economistas Creativos,0
+Cálculos Exactos,2,Analistas Numéricos,1
+Economistas Creativos,0,Papagayos de la Comuna,3
+Analistas Numéricos,1,Ingenieros Financieros,2
+Ingenieros Financieros,1,Papagayos de la Comuna,1
+Financieros Ingeniosos,3,Cálculos Exactos,1
+Analistas Numéricos,2,Economistas Creativos,2
+Papagayos de la Comuna,0,Cálculos Exactos,0
+Ingenieros Financieros,1,Financieros Ingeniosos,3
+Economistas Creativos,1,Analistas Numéricos,0
+Papagayos de la Comuna,2,Analistas Numéricos,2
+Cálculos Exactos,0,Ingenieros Financieros,1
+Financieros Ingeniosos,2,Economistas Creativos,1
+Analistas Numéricos,0,Cálculos Exactos,0
+Ingenieros Financieros,2,Economistas Creativos,2
+Financieros Ingeniosos,3,Papagayos de la Comuna,0
